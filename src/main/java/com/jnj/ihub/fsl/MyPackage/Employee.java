@@ -1,4 +1,4 @@
-package MyPackage;
+package com.jnj.ihub.fsl.MyPackage;
 
 public class Employee {
 	
