@@ -52,3 +52,4 @@ target
 target/classes/META-INF/maven/fsl/fsl/pom.properties
 .classpath
 *.project
+target/classes/META-INF/maven/fsl/fsl/pom.properties
