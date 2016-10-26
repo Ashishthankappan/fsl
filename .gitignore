@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+**/*.class
+target
+*.prefs
+*.properties
+target/classes/META-INF/maven/fsl/fsl/pom.properties
+.classpath
+*.project
